@@ -110,7 +110,7 @@
         <dependency>
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate</artifactId>
-            <version>3.2.1.ga</version>
+            <version>3.3.0.GA</version>
             <scope>compile</scope>
         </dependency>   
         
